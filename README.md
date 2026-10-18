@@ -43,8 +43,8 @@ I build LLM-powered tools (agents, RAG pipelines, forecasting apps) and I care j
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/risitasutar/omniflow-AI"><img src="./assets/card-omniflow.svg" width="100%" alt="OmniFlow AI"/></a>
-<p align="center"><a href="https://github.com/risitasutar/omniflow-AI">💻 Code</a> · <a href="https://omniflow-ai-dmtyueqfrbwxxsmdrkhcjz.streamlit.app/">🌐 Live demo</a></p>
+<a href="https://github.com/risitasutar/OmniiFlow-AI"><img src="./assets/card-omniflow.svg" width="100%" alt="OmniFlow AI"/></a>
+<p align="center"><a href="https://github.com/risitasutar/OmniiFlow-AI">💻 Code</a> · <a href="https://omniflow-ai-dmtyueqfrbwxxsmdrkhcjz.streamlit.app/">🌐 Live demo</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/risitasutar/AI-Video-Assistant"><img src="./assets/card-video.svg" width="100%" alt="AI Video Assistant"/></a>
