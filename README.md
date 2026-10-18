@@ -194,7 +194,7 @@ and outlets by size and location tier.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/risitasutar/risitasutar/output-3d/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 <br/><br/>
 
